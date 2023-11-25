@@ -5,7 +5,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AtilaFreitas17)
 
 ![Atila GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAtilaOliveira&show_icons=true&theme=onedark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAtilaOliveira&layout=compact)
 
 ## Tecnologias que estou usando
 <div style = "display: inline-block">
